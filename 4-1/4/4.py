@@ -1,6 +1,3 @@
-from re import I
-
-
 n = int(input())
 i = 1
 while i < 10 :
