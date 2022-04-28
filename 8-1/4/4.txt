@@ -1,0 +1,1 @@
+2^32 ( 2에 32승 ) data can be represented by using 4 bytes.
