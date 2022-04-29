@@ -7,4 +7,5 @@ int main(){
     printf("3) %E %E\n", A, B);
     printf("4) %g %g\n", A, B);
     printf("5) %G %G\n", A, B);
+    return 0;
 }
